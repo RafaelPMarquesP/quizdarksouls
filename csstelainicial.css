@@ -1,0 +1,22 @@
+body{
+    background-image: url("./DARKSOULSABERTURA.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+  }
+h1{
+    text-align: center;
+    color: white;
+}
+
+#NOMEJOGO{
+    font-size: 20px;
+}
+img{
+    background-size: cover;
+    opacity: 0.5
+}
+h1{
+    color: white;
+    font:20px;
+}
